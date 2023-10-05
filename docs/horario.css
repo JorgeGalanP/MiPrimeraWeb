@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(./Fotos/Faust1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+table {
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: double;
+    background-color: brown;
+}
+
+th {
+    border: 5px black solid;
+
+}
+
+th.dia_hora {
+    background-color: rgb(5, 228, 5);
+}
+
+th.relleno {
+    background-color: greenyellow;
+}
+
+th.BD {
+    background-color: red;
+}
+
+th.programacion {
+    background-color: blueviolet;
+}
+
+th.ED {
+    background-color: rgb(255, 9, 255);
+}
+
+th.fol {
+    background-color: aqua;
+}
+
+th.LM {
+    background-color: yellow;
+}
+
+th.SI {
+    background-color: blue;
+}
+
+th.recreo {
+    background-color: orangered;
+}
+
+a:link {
+    color: mediumblue;
+}
+
+a:visited {
+    color: midnightblue;
+}
